@@ -1,0 +1,5 @@
+build:
+  info:
+    version: 3.0.0
+    env: dev
+    baseUrl: http://address-service/address

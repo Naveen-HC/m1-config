@@ -1,0 +1,5 @@
+build:
+  info:
+    version: 1.0.0
+    env: prod
+    baseUrl: http://address-service/address

@@ -1,0 +1,5 @@
+build:
+  info:
+    version: 2.0.0
+    env: qa
+    baseUrl: http://address-service/address
